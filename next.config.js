@@ -10,7 +10,6 @@ const nextConfig = {
     domains: ['example.com'], // Replace with your allowed domains
   },
   // Additional Next.js configurations for production
-  swcMinify: true,
   compress: true,
   poweredByHeader: false,
 };
