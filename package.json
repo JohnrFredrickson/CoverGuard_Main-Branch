@@ -11,7 +11,7 @@
     "vercel-build": "next build",
     "type-check": "tsc --noEmit",
     "format": "prettier --write .",
-    "test": "jest --passWithNoTests",
+    "test": "jest",
     "db:push": "prisma db push",
     "db:generate": "prisma generate"
   },
